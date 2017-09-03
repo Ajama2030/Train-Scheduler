@@ -1,0 +1,24 @@
+form{
+	margin: 30px;
+}
+
+body{
+	background-color: #111419;
+}
+
+table{ 
+
+	width: 100%;
+ }
+
+
+.jumbotron{
+	background: #dadee5;
+}
+
+
+.panel-heading{
+	font-size: 20px;
+	background -color: #5892ad;
+
+}
